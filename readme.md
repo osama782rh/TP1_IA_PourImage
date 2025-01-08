@@ -128,7 +128,7 @@ Voici des exemples de visualisation et des résultats obtenus lors de l'entraîn
 **Menu :**
 ![Menu principal](menu.png)
 
-**Menu :**
+**Chargement data :**
 ![Chargement data](chargement_data.png)
 
 **Exemple de visualisation des données :**  
